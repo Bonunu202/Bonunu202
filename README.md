@@ -4,4 +4,4 @@
 - **Rotating Space: Endless Runner**: An interesting endless runner game for iOS (Unity with C#)
 ### Skills
 - **Languages**: Java, C#, C++, Swift
-- **Frameworks**: Unity, Xamarin.Forms
+- **Frameworks**: Unity, Xamarin.Forms, JavaFX
