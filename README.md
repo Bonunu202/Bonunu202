@@ -3,5 +3,5 @@
 - **Time-Stop**: A strategic platformer game for iOS and Mac (Unity with C#)
 - **Rotating Space: Endless Runner**: An interesting endless runner game for iOS (Unity with C#)
 ### Skills
-- **Languages**: Java, C#, C++, Swift
+- **Languages**: Java, C# and a little bit of C++ and Python
 - **Frameworks**: Unity, Xamarin.Forms, JavaFX
